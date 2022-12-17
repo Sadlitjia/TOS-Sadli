@@ -1,7 +1,7 @@
 Mengunduh dan menginstal GitHub Desktop
 - Buka browser di laptop Anda
 - Kunjungi halaman unduhan untuk GitHub Desktop.
-- Klik Unduh untuk macOS.
+- unduh file untuk windows
 - Di folder Unduhan komputer Anda, klik dua kali file zip GitHub Desktop.
 - Setelah file di-unzip, klik dua kali GitHub Desktop.
 - Desktop GitHub akan diluncurkan setelah penginstalan selesai.
