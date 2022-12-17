@@ -1,0 +1,12 @@
+Cara Install Git di Windows
+- Download File Git. Untuk menginstall Git, Anda perlu mengunduh file-nya terlebih dahulu di situs resminya
+- Install Git
+- Tentukan Lokasi Instalasi Git
+- Pilih Komponen Tambahan
+- Tentukan Nama Aplikasi Git
+- Tentukan File Editor
+- Atur Path Environment
+- Pilih Aplikasi SSH
+- Pilih Line Ending
+- Pilih Emulator Terminal
+- Tentukan Opsi ekstra
