@@ -10,3 +10,5 @@ Cara Install Git di Windows
 - Pilih Line Ending
 - Pilih Emulator Terminal
 - Tentukan Opsi ekstra
+- Mulai Proses Instalasi
+- Cek Versi Git
